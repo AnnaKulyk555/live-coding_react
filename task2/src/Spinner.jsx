@@ -1,7 +1,5 @@
 import React from 'react';
 
-const Spinner = props => {
-  return <span className="spinner"></span>;
-};
+const Spinner = props => <span className="spinner"></span>;
 
 export default Spinner;
